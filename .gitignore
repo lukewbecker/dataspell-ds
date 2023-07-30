@@ -1,5 +1,6 @@
 # Personal ignores
 *.xml
+env.py
 
 
 
